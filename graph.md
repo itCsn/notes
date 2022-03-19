@@ -54,3 +54,5 @@ How a computer reprensent a graph as a data structure
 3. List (**Adjaency List**) -> _Most Common_:
 	a list is made with the values of the vertices where each vertex is map to a list of
 	their neighbours
+
+	![Adjaency List example](list.png)
